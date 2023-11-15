@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Layan Moyura</h1>
 <h3 align="center">An Engineering UG from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/pBKYnzy3xaDSLCYLVBv4vnOERXeEkmQOlpcAXQe-ycQ/rs:fit:640:360:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy83ZjYx/ZjVjOWZjOGRmMzEy/MDk4Mjg0NDA3MzQw/MjllOS90ZW5vci5n/aWY_aXRlbWlkPTE4/MjI2OTA2.gif"/>
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.cd37fa49c983ac905df0016fd5b6a2ee?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fcd37fa49c983ac905df0016fd5b6a2ee%2ftenor.gif%3fitemid%3d13165216&ehk=Szn3exzIoE0F6zOhWJ1exjRH0yvH08MZaIdxmi8iiDQ%3d"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=layanmoyura&label=Profile%20views&color=0e75b6&style=flat" alt="layanmoyura" /> </p>
 
