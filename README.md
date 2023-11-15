@@ -1,21 +1,3 @@
-<style>
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-      }
-      40% {
-        transform: translateY(-20px);
-      }
-      60% {
-        transform: translateY(-10px);
-      }
-    }
-
-    h1 {
-      animation: bounce 2s infinite;
-    }
-  </style>
-
 <h1 align="center">Hi 👋, I'm Layan Moyura</h1>
 <h3 align="center">An Engineering UG from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/pBKYnzy3xaDSLCYLVBv4vnOERXeEkmQOlpcAXQe-ycQ/rs:fit:640:360:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy83ZjYx/ZjVjOWZjOGRmMzEy/MDk4Mjg0NDA3MzQw/MjllOS90ZW5vci5n/aWY_aXRlbWlkPTE4/MjI2OTA2.gif"/>
