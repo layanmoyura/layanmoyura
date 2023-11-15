@@ -1,4 +1,4 @@
-<h1 align="center" style="animation: bounce 1s infinite;">Hi 👋, I'm Layan Moyura</h1>
+<h1 align="center">Hi 👋, I'm Layan Moyura</h1>
 <h3 align="center">An Engineering UG from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.cd37fa49c983ac905df0016fd5b6a2ee?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fcd37fa49c983ac905df0016fd5b6a2ee%2ftenor.gif%3fitemid%3d13165216&ehk=Szn3exzIoE0F6zOhWJ1exjRH0yvH08MZaIdxmi8iiDQ%3d"/>
