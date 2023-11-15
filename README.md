@@ -22,12 +22,12 @@
 
 <details>
   <summary><strong>GitHub Stats</strong></summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=layanmoyura&show_icons=true&locale=en&theme=dark" alt="layanmoyura" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=layanmoyura&show_icons=true&locale=en&theme=radical" alt="layanmoyura" /></p>
 </details>
 
 <details>
   <summary><strong>Language Stats</strong></summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=layanmoyura&show_icons=true&locale=en&layout=compact&theme=dark" alt="layanmoyura" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=layanmoyura&show_icons=true&locale=en&layout=compact&theme=radical" alt="layanmoyura" /></p>
 </details>
 
 <details>
