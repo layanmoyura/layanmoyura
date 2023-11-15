@@ -29,3 +29,8 @@
   <summary><strong>Language Stats</strong></summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=layanmoyura&show_icons=true&locale=en&layout=compact&theme=dark" alt="layanmoyura" /></p>
 </details>
+
+<details>
+  <summary><strong>GitHub Streak Stats</strong></summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=layanmoyura&theme=radical" alt="layanmoyura" /></p>
+</details>
