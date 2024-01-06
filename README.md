@@ -12,6 +12,8 @@
 <a href="https://linkedin.com/in/layan-moyura-88217b181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="layan-moyura-88217b181" height="30" width="40" /></a>
 <a href="https://fb.com/layanmoyura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="layanmoyura" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@layan_moyura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@layan_moyura" height="30" width="40" /></a>
+<a href="http://bit.ly/layanmoyura" target="blank"><i class="fas fa-globe"></i></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
