@@ -35,11 +35,6 @@
 </details>
 
 <details>
-  <summary><strong>GitHub Streak Stats</strong></summary>
-  <p><img align="center" src="https://streak-stats.demolab.com?user=layanmoyura&theme=radical" alt="layanmoyura" /></p>
-</details>
-
-<details>
 <summary><strong>GitHub Summary</strong></summary>
 <p >
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layanmoyura&theme=radical" alt="layanmoyura"/>
