@@ -36,7 +36,7 @@
 
 <details>
   <summary><strong>GitHub Streak Stats</strong></summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=layanmoyura&theme=radical" alt="layanmoyura" /></p>
+  <p><img align="center" src="https://streak-stats.demolab.com?user=layanmoyura&theme=radical" alt="layanmoyura" /></p>
 </details>
 
 <details>
