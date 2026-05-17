@@ -25,16 +25,6 @@
 <a href="https://jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 
 <details>
-  <summary><strong>GitHub Stats</strong></summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=layanmoyura&show_icons=true&locale=en&theme=radical" alt="layanmoyura" /></p>
-</details>
-
-<details>
-  <summary><strong>Language Stats</strong></summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=layanmoyura&show_icons=true&locale=en&layout=compact&theme=radical" alt="layanmoyura" /></p>
-</details>
-
-<details>
 <summary><strong>GitHub Summary</strong></summary>
 <p >
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layanmoyura&theme=radical" alt="layanmoyura"/>
