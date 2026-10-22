@@ -13,6 +13,7 @@
 
 - 🎓 **Education:** Fresh **BSc(Hons.) Engineering Graduate** from Sri Lanka
 - 💻 **Domain:** Software Engineering & Full-Stack Application Development
+- 🤖 **AI & Coding Agents:** Agentic Workflows with **Antigravity** & **Codex**
 - 🌐 **Portfolio Website:** [**bit.ly/layanmoyura**](https://bit.ly/layanmoyura)
 - 📫 **Direct Email:** [**layanmoyura@gmail.com**](mailto:layanmoyura@gmail.com)
 - ⚡ **Philosophy:** Crafting clean code, scalable architectures, and impactful digital solutions
@@ -141,6 +142,17 @@
       </a> &nbsp;
       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="36" height="36"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>🤖 Coding Agents & AI</b></td>
+    <td align="left">
+      <a href="https://deepmind.google/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Antigravity-8E75F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" height="28"/>
+      </a> &nbsp;
+      <a href="https://openai.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" height="28"/>
       </a>
     </td>
   </tr>
