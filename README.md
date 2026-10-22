@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,dotnet,bootstrap,c,cpp,cs,css,html,js,matlab,mysql,postgres,postman,py,ts,bash,docker,jenkins&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,dotnet,bootstrap,c,cpp,cs,css,html,js,matlab,mysql,postgres,postman,py,ts,bash,docker,jenkins&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
@@ -85,6 +85,12 @@
   <tr>
     <td align="left"><b>🌐 Frontend</b></td>
     <td align="left">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+      </a> &nbsp;
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/>
+      </a> &nbsp;
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="36" height="36"/>
       </a> &nbsp;
