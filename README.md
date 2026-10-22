@@ -1,19 +1,9 @@
-<div align="center">
-  <!-- Dynamic Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:a9fef7&height=200&section=header&text=Hi%20👋,%20I'm%20Layan%20Moyura&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
+<h1 align="center">Hi 👋, I'm Layan Moyura</h1>
+<h3 align="center">Fresh BSc(Hons.) Engineering Graduate from Sri Lanka</h3>
 
-  <!-- Animated Typing Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Fresh+BSc(Hons.)+Engineering+Graduate+from+Sri+Lanka+🎓;Full+Stack+Software+Engineer+💻;Passionate+Problem+Solver+%26+Tech+Enthusiast+🚀" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Profile Visitor Counter Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=layanmoyura&label=Profile%20Views&color=fe428e&style=flat-square" alt="layanmoyura views" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=layanmoyura&label=Profile%20Views&color=fe428e&style=flat-square" alt="layanmoyura views" />
+</p>
 
 ---
 
@@ -96,7 +86,7 @@
     <td align="left"><b>🌐 Frontend</b></td>
     <td align="left">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="36" height="36"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="36" height="36"/>
       </a> &nbsp;
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
@@ -127,7 +117,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
       </a> &nbsp;
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="36" height="36"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="36" height="36"/>
       </a>
     </td>
   </tr>
@@ -141,7 +131,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="36" height="36"/>
       </a> &nbsp;
       <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="36" height="36"/>
       </a> &nbsp;
       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="36" height="36"/>
@@ -155,50 +145,16 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=layanmoyura&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Layan's GitHub Stats" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=layanmoyura&theme=radical&hide_border=true" alt="Layan's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=layanmoyura&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Layan's GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layanmoyura&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- Detailed Profile Summary Cards in Collapsible Section -->
 <details>
-  <summary>📈 <strong>Click to expand Detailed GitHub Profile Summary & Metrics</strong></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layanmoyura&theme=radical" alt="Profile Details" />
-    <br/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=layanmoyura&theme=radical" alt="Stats Card" />
-    <br/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=layanmoyura&theme=radical" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=layanmoyura&theme=radical" alt="Most Commit Language" />
-  </div>
+<summary><strong>GitHub Summary</strong></summary>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layanmoyura&theme=radical" alt="layanmoyura"/>
+</p>
 </details>
-
-<br/>
-
----
-
-<!-- Inspirational Developer Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
-<br/>
-
-<!-- Footer Wave Decoration -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:a9fef7&height=90&section=footer" width="100%"/>
-</div>
