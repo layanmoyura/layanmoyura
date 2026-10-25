@@ -1,22 +1,31 @@
-<h1 align="center">Hi 👋, I'm Layan Moyura</h1>
-<h3 align="center">Fresh BSc(Hons.) Engineering Graduate from Sri Lanka</h3>
+<div align="center">
+  <!-- Atmospheric Berserk / Guts Animated Banner -->
+  <img src="https://i.giphy.com/media/pUp9Nb1czvHMY/giphy.gif" width="100%" alt="Guts Berserk Rain" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=layanmoyura&label=Profile%20Views&color=fe428e&style=flat-square" alt="layanmoyura views" />
-</p>
+  <h1>⚔️ Layan Moyura ⚔️</h1>
+  <h3>Fresh BSc(Hons.) Engineering Graduate from Sri Lanka • Struggler & Full-Stack Software Engineer</h3>
+
+  <p>
+    <i>"Even if we painstakingly piece together something lost, it doesn't mean things will ever go back to how they were.<br/>But you keep struggling forward."</i>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=layanmoyura&label=Strugglers%20Count&color=8A0303&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 🗡️ About The Struggler
 
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" />
+<img align="right" alt="Guts Battle Animation" width="340" src="https://media.tenor.com/N3IR3qLiRX0AAAAM/berserk-guts.gif" />
 
 - 🎓 **Education:** Fresh **BSc(Hons.) Engineering Graduate** from Sri Lanka
 - 💻 **Domain:** Software Engineering & Full-Stack Application Development
 - 🤖 **AI & Coding Agents:** Agentic Workflows with **Antigravity** & **Codex**
-- 🌐 **Portfolio Website:** [**bit.ly/layanmoyura**](https://bit.ly/layanmoyura)
-- 📫 **Direct Email:** [**layanmoyura@gmail.com**](mailto:layanmoyura@gmail.com)
-- ⚡ **Philosophy:** Crafting clean code, scalable architectures, and impactful digital solutions
+- 🌐 **Portfolio Stronghold:** [**bit.ly/layanmoyura**](https://bit.ly/layanmoyura)
+- 📫 **Direct Inquiries:** [**layanmoyura@gmail.com**](mailto:layanmoyura@gmail.com)
+- 🩸 **Philosophy:** <i>"Struggle, endure, contend. For that alone is the sword of one who defies fate."</i>
 
 <br/>
 
@@ -26,29 +35,29 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/layan-moyura-88217b181" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-8A0303?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://bit.ly/layanmoyura" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-141321?style=for-the-badge&logo=googlechrome&logoColor=a9fef7" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio%20Website-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=e50914" alt="Website" />
   </a>
   &nbsp;
   <a href="mailto:layanmoyura@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-7A0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://fb.com/layanmoyura" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
   <a href="https://www.hackerearth.com/@layan_moyura" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+    <img src="https://img.shields.io/badge/HackerEarth-8A0303?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Arsenal & Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -149,10 +158,10 @@
     <td align="left"><b>🤖 Coding Agents & AI</b></td>
     <td align="left">
       <a href="https://deepmind.google/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Antigravity-8E75F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" height="28"/>
+        <img src="https://img.shields.io/badge/Antigravity-8A0303?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" height="28"/>
       </a> &nbsp;
       <a href="https://openai.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" height="28"/>
+        <img src="https://img.shields.io/badge/Codex-1a1a1a?style=for-the-badge&logo=openai&logoColor=e50914" alt="Codex" height="28"/>
       </a>
     </td>
   </tr>
@@ -160,18 +169,18 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 Battlefield Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layanmoyura&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Layan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=layanmoyura&show_icons=true&bg_color=0a0a0a&title_color=e50914&icon_color=e50914&text_color=cccccc&border_color=330000" alt="Layan's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layanmoyura&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layanmoyura&layout=compact&bg_color=0a0a0a&title_color=e50914&text_color=cccccc&border_color=330000" alt="Top Languages" />
 </div>
 
 <br/>
 
 <details>
-<summary><strong>GitHub Summary</strong></summary>
+<summary><strong>⚔️ Detailed Chronicle Summary</strong></summary>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layanmoyura&theme=radical" alt="layanmoyura"/>
 </p>
